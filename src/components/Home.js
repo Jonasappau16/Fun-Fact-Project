@@ -7,9 +7,9 @@ return (
     <nav className="nav-wrapper blue darken-3">
     <div className="container">
     <img src={ChelseaLogo} alt="logo" className="logo"/>
-        <Link to="/postOne">Fact one </Link>
-        <Link to="/postTwo"> Fact two </Link>           
-        <Link to="/postThree"> Fact three </Link>
+        <Link to="/postOne">FactOne </Link>
+        <Link to="/postTwo"> FactTwo </Link>           
+        <Link to="/postThree"> FactThree </Link>
     </div>
 </nav>
 

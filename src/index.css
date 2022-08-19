@@ -8,7 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh; /*parent container*/ 
   width: 100%;
-  background-image: linear-gradient(rgba(77, 88, 243, 0.7),rgba(59, 90, 126, 0.7)),url(./chelsea\ football\ club.jpeg);
+  background-image: linear-gradient(rgba(14, 27, 205, 0.7),rgba(30, 45, 99, 0.7)),url(./chelsea\ football\ club.jpeg);
   background-position: center;
   background-size: cover;
   position: relative;  
@@ -17,9 +17,14 @@ p{
   color: aliceblue;
   text-align: center;
 }
+
 h4{
-  color: aliceblue;
+  color: rgb(241, 117, 9);
+  font-weight: bolder;
+  font-size: 5rem;
+  
 }
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -28,7 +33,11 @@ code {
 .nav-anchors {
   float: right;
   margin-right: 0%;
-  font-size: 20px;
+  font-size: 50px;
+  
+}
+.nav-wrapper{
+  font-size: 2rem;
   
 }
 
@@ -36,6 +45,9 @@ li{
   margin-left: 20px !important;
   margin-right: 10px !important;
   position: fixed;
+} 
+.text-para{
+  font-size: 40px;
 }
 
 .logo{

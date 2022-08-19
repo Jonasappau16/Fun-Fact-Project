@@ -4,7 +4,7 @@ const PostTwo = () => {
     return (
         <div className="container">
             <h4 className="center">Fact-Two</h4>
-            <p>Cristiano Ronaldo holds the distinction as the only known football player in professional history to score a goal in every single minute of a match. At some point in his career, he's put the ball in the back of the net in minute 1, all the way to minute 90.</p>
+            <p className='text-para'>Chelsea are the first team in football history to win all 4 major European trophies twice.<br />Super Cup 🏆 <br />European Cup Winners Cup 🏆<br />Europa League 🏆<br />Champions League 🏆</p>
         </div>
     )
 }
