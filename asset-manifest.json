@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Fun-Fact-Project/static/css/main.59050fc0.chunk.css",
+    "main.js": "/Fun-Fact-Project/static/js/main.b39ad489.chunk.js",
+    "main.js.map": "/Fun-Fact-Project/static/js/main.b39ad489.chunk.js.map",
+    "runtime-main.js": "/Fun-Fact-Project/static/js/runtime-main.3b681b18.js",
+    "runtime-main.js.map": "/Fun-Fact-Project/static/js/runtime-main.3b681b18.js.map",
+    "static/js/2.3f9745d2.chunk.js": "/Fun-Fact-Project/static/js/2.3f9745d2.chunk.js",
+    "static/js/2.3f9745d2.chunk.js.map": "/Fun-Fact-Project/static/js/2.3f9745d2.chunk.js.map",
+    "static/js/3.75ea7ba6.chunk.js": "/Fun-Fact-Project/static/js/3.75ea7ba6.chunk.js",
+    "static/js/3.75ea7ba6.chunk.js.map": "/Fun-Fact-Project/static/js/3.75ea7ba6.chunk.js.map",
+    "index.html": "/Fun-Fact-Project/index.html",
+    "static/css/main.59050fc0.chunk.css.map": "/Fun-Fact-Project/static/css/main.59050fc0.chunk.css.map",
+    "static/js/2.3f9745d2.chunk.js.LICENSE.txt": "/Fun-Fact-Project/static/js/2.3f9745d2.chunk.js.LICENSE.txt",
+    "static/media/Chelsea-Logo.2543d224.png": "/Fun-Fact-Project/static/media/Chelsea-Logo.2543d224.png",
+    "static/media/index.css": "/Fun-Fact-Project/static/media/chelsea football club.410e5c61.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b681b18.js",
+    "static/js/2.3f9745d2.chunk.js",
+    "static/css/main.59050fc0.chunk.css",
+    "static/js/main.b39ad489.chunk.js"
+  ]
+}
